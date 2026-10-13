@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+}
+
+.gametable {
+    margin: 10px auto;
+    border-collapse: collapse;
+}
+
+.gametd {
+    height: 50px;
+    width: 50px;
+    border: solid black 1px;
+    text-align: center;
+    font-family: Consolas, monospace;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.wall {
+    background-color: gray;
+}
+
+.empty {
+    background-color: white;
+}
